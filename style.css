@@ -1,0 +1,63 @@
+/* font-family: 'Inter', sans-serif;
+font-family: 'Poppins', sans-serif;  */
+
+.search-form{
+    border: 1px solid transparent;
+    background-color: #f7f0f0;
+    border-radius: 25px;
+    min-width: 50% !important;
+
+}
+
+.search-bar{
+    border-color: transparent;
+    background-color: transparent;
+    border-radius: 25px;
+}
+
+.search-bar:focus{
+    border-color: transparent;
+    background-color: transparent;
+    outline: transparent;
+    box-shadow: none;
+}
+
+
+.common-button{
+    border-color: transparent;
+    background-color: transparent;
+
+}
+
+.fa-search{
+    color: #BABABA;
+}
+.slider-button{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border-radius: 6px;
+    font-family: Inter;
+    font-weight: 400;
+    color: white;
+    border-color: transparent;
+}
+
+.fa-arrow-right{
+    color: white;
+    padding-left: 10px;
+}
+.thumbnail {
+	margin-bottom: 6px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.thumbnail img {
+	width: 100%;
+	padding: 2%;
+}
+
+.card-title{
+    color:#c4c0c0
+}
+footer {
+    background-color: #0b0d17;
+  }
